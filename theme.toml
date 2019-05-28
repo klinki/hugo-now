@@ -9,6 +9,7 @@ homepage = "https://github.com/mikeblum/hugo-now"
 tags = ["blog", "profile", "jekyll-now", "bootstrap", "font awesome", "responsive", "pygments"]
 features = ["blog", "portfolio"]
 min_version = 0.24
+displayauthor = false
 
 [author]
   name = "Michael Blum"
